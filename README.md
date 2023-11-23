@@ -1,1 +1,1 @@
-# Optimizing-E-Commerce-Pricing-Strategies-Using-Propabilistic-Programming
+# Optimizing-E-Commerce-Pricing-Strategies-Using-Probabilistic-Programming
